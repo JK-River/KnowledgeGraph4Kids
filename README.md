@@ -18,7 +18,7 @@ http://www.robotant.com.cn/resource/story/audio/  
 http://www.robotant.com.cn/resource/story/video/    
 注：视频文件名称与结构化数据的故事名称相对应；
    
-
+###示例：
 | 故事名| 白雪公主 |
 |--------|--------|
 |推荐指数|五星|
